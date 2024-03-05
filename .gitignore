@@ -3,6 +3,8 @@
 /first
 /utils/__pycache__
 /src/utils/__init__.py
+/src/utils/__pycache__/main.cpyton-311.pyc
+/src/utils/__pycache__/medication_tracker-311.pyc
 /notes
 readme.md
 requirements.txt
