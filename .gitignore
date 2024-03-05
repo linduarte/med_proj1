@@ -1,0 +1,8 @@
+.vscode/settings.json
+/database/__init__.py
+/first
+/utils/__pycache__
+/src/utils/__init__.py
+/notes
+readme.md
+requirements.txt
